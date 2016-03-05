@@ -27,13 +27,13 @@ namespace GADS2014M7.AV1Parte3.Presentation.ConsoleApp
                 var service = new XmlServiceBase();
 
                 var xmldoc = service.LoadlXmlDocument(path);
-                var newFilename = $"ExportaAlunos-Samuel.Jesus-{DateTime.Now.ToString("yyyyMMdd-Hms")}";
+                var newFilename = $"ExportaAlunos-Samuel.Jesus-{DateTime.Now.ToString("yyyyMMdd-Hmms")}";
 
                 var logpathTxt = $"{newFilename}-Log.txt";
 
                 service.ImportDataFromXml(xmldoc, @logpathTxt);
         
-                service.RenameXmlFile(path, newFilename);
+                service.RenameXmlFile(path, $"{newFilename}.xml");
 
 
                 //imprimo o novo nome do arquivo XML:
