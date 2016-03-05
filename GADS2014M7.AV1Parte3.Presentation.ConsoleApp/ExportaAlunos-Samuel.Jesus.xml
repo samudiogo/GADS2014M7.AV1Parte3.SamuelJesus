@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Alunos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Aluno>
+		<Matricula>1</Matricula>
+		<Nome>Samuel</Nome>
+		<Sobrenome>Diogo</Sobrenome>
+		<CodigoCurso>M20483</CodigoCurso>
+		<NomeCurso>Programming in C#</NomeCurso>
+		<StatusCurso>1</StatusCurso>
+	</Aluno>
+	<Aluno>
+		<Matricula>1</Matricula>
+		<Nome>Samuel</Nome>
+		<Sobrenome>Diogo</Sobrenome>
+		<CodigoCurso>M20486</CodigoCurso>
+		<NomeCurso>Developing ASP.NET MVC 4 Web Applications</NomeCurso>
+		<StatusCurso>1</StatusCurso>
+	</Aluno>
+	<Aluno>
+		<Matricula>2</Matricula>
+		<Nome>André</Nome>
+		<Sobrenome>Bravo</Sobrenome>
+		<CodigoCurso>M20487</CodigoCurso>
+		<NomeCurso>Developing Windows Azure and Web Services</NomeCurso>
+		<StatusCurso>1</StatusCurso>
+	</Aluno>
+	<Aluno>
+		<Matricula>3</Matricula>
+		<Nome>Antonio</Nome>
+		<Sobrenome>Henrique</Sobrenome>
+		<CodigoCurso>I590</CodigoCurso>
+		<NomeCurso>Projeto de Sistemas e Orientação a Objetos com UML</NomeCurso>
+		<StatusCurso>1</StatusCurso>
+	</Aluno>
+	<Aluno>
+		<Matricula>4</Matricula>
+		<Nome>Hugo</Nome>
+		<Sobrenome>Michel</Sobrenome>
+		<CodigoCurso>M2389B</CodigoCurso>
+		<NomeCurso>Programming with Microsoft ADO .NET</NomeCurso>
+		<StatusCurso>0</StatusCurso>
+	</Aluno>
+	<Aluno>
+		<Matricula>5</Matricula>
+		<Nome>Vinicius</Nome>
+		<Sobrenome>Bianchi</Sobrenome>
+		<CodigoCurso>M20487</CodigoCurso>
+		<NomeCurso>Developing Windows Azure and Web Services</NomeCurso>
+		<StatusCurso>1</StatusCurso>
+	</Aluno>
+	<Aluno>
+		<Matricula>6</Matricula>
+		<Nome>Isvaldo</Nome>
+		<Sobrenome>Fernandes</Sobrenome>
+		<CodigoCurso>M20483</CodigoCurso>
+		<NomeCurso>Programming in C#</NomeCurso>
+		<StatusCurso>1</StatusCurso>
+	</Aluno>
+	<Aluno>
+		<Matricula>8</Matricula>
+		<Nome>Gilson</Nome>
+		<Sobrenome>Azevedo</Sobrenome>
+		<CodigoCurso>M2565B</CodigoCurso>
+		<NomeCurso>Developing Microsoft .NET Applications for Windows VB.NET</NomeCurso>
+		<StatusCurso>0</StatusCurso>
+	</Aluno>
+	<Aluno>
+		<Matricula>9</Matricula>
+		<Nome>Vanessa</Nome>
+		<Sobrenome>Ely</Sobrenome>
+		<CodigoCurso>M20480</CodigoCurso>
+		<NomeCurso>Programming in HTML5 with JavaScript and CSS3</NomeCurso>
+		<StatusCurso>1</StatusCurso>
+	</Aluno>
+	<Aluno>
+		<Matricula>10</Matricula>
+		<Nome>Rodrigo</Nome>
+		<Sobrenome>Paiva</Sobrenome>
+		<CodigoCurso>M20486</CodigoCurso>
+		<NomeCurso>Developing ASP.NET MVC 4 Web Applications</NomeCurso>
+		<StatusCurso>1</StatusCurso>
+	</Aluno>
+	<Aluno>
+		<Matricula>12</Matricula>
+		<Nome>Carlos</Nome>
+		<Sobrenome>Renato</Sobrenome>
+		<CodigoCurso>I590</CodigoCurso>
+		<NomeCurso>Projeto de Sistemas e Orientação a Objetos com UML</NomeCurso>
+		<StatusCurso>1</StatusCurso>
+	</Aluno>
+	<Aluno>
+		<Matricula>13</Matricula>
+		<Nome>Caio</Nome>
+		<Sobrenome>Aguiar</Sobrenome>
+		<CodigoCurso>M20483</CodigoCurso>
+		<NomeCurso>Programming in C#</NomeCurso>
+		<StatusCurso>1</StatusCurso>
+	</Aluno>
+	<Aluno>
+		<Matricula>14</Matricula>
+		<Nome>Caique</Nome>
+		<Sobrenome>Bernado</Sobrenome>
+		<CodigoCurso>I590</CodigoCurso>
+		<NomeCurso>Projeto de Sistemas e Orientação a Objetos com UML</NomeCurso>
+		<StatusCurso>1</StatusCurso>
+	</Aluno>
+	<Aluno>
+		<Matricula>15</Matricula>
+		<Nome>Carlos</Nome>
+		<Sobrenome>Renato</Sobrenome>
+		<CodigoCurso>M20483</CodigoCurso>
+		<NomeCurso>Programming in C#</NomeCurso>
+		<StatusCurso>1</StatusCurso>
+	</Aluno>
+</Alunos>
